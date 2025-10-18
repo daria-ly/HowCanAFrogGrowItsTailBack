@@ -136,7 +136,7 @@ Clustering, denoising, and integration analyses all show that the ROC cluster re
 ---
 
 **Author:** Dasha Lykova  
-**Institution:** Columbia University — Data Science & Financial Economics  
+**Institution:** Columbia University 
 **Course:** Introduction to Data Science — Mini Project 1  
 **Date:** October 2025
 
